@@ -2,7 +2,7 @@ Web front-end for [PainterQubits/ICDataServer.jl](https://github.com/PainterQubi
 to be used in conjunction with [PainterQubits/webserver](https://github.com/PainterQubits/webserver).
 
 Most of the logic is in `src/App.vue` and `src/main.js`. If you ever change the port the
-web server uses,
+web server uses, you might have to dig around and look for port numbers throughout the project.
 
 To use, in the project directory:
 
