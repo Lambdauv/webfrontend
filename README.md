@@ -13,3 +13,5 @@ To use, in the project directory:
 
 Once built, copy the contents of `dist` folder to the `static` folder in the `webserver`
 package.
+
+Copyright © 2019, California Institute of Technology. All rights reserved. Neither the name of the California Institute of Technology (“Caltech”) nor the names of its contributors (and/or sponsors) may be used to endorse or promote products derived from this software without specific prior written permission.
